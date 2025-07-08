@@ -27,7 +27,7 @@ bun add -g @itsalik/readmemaker
 or clone locally for development:
 
 ```bash
-git clone https://github.com/itsalik/readmemaker.git
+git clone https://github.com/itsalimanuel/readmemaker.git
 cd readmemaker
 bun install
 bun link
