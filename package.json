@@ -1,8 +1,16 @@
 {
   "name": "@itsalik/readmemaker",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "module": "index.ts",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsalimanuel/readmemaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itsalimanuel/readmemaker/issues"
+  },
+  "homepage": "https://github.com/itsalimanuel/readmemaker#readme",
   "devDependencies": {
     "@types/bun": "latest"
   },
