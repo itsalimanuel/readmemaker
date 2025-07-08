@@ -1,0 +1,8 @@
+.env.local
+.env
+.env.*
+
+
+tests/
+*.test.ts
+bun.lock
